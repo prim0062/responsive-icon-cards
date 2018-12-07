@@ -66,7 +66,6 @@ html {
 
   .card-img {
     display: inline-block;
-    max-width: 50px;
   }
 
 }
@@ -95,7 +94,6 @@ html {
   }
 
   .card-img img {
-    max-width: 50px;
     text-align: center;
     margin: .75em;
   }
@@ -122,12 +120,6 @@ html {
     padding: 0;
   }
 
-  .card-img img {
-    max-width: 50px;
-    text-align: center;
-    margin: .75em;
-  }
-
 }
 
 @media only screen and (min-width: 90em) {
@@ -149,7 +141,6 @@ html {
 
   .card-img {
     display: inline-block;
-    max-width: 50px;
     margin: .75em;
   }
 
